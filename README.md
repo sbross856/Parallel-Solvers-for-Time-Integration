@@ -1,3 +1,3 @@
 # Parallel-Solvers-for-Time-Integration
 
-Researching high order numerical solvers such as Integral Deferred correction
+Researching deferred correction methods, a family of high order numerical integrators
